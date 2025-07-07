@@ -29,12 +29,6 @@ See [`analysis.sql`](analysis.sql) for the exact code.
 | Medium        | 85       | 8.72     | 37.11    | 77.85   |
 | Short         | 95       | 7.48     | 38.11    | 72.80   |
 
-## 📈 Visualizations
-
-- `fig1_counts.png`: Number of international students by stay category
-- `fig2_phq.png`: PHQ-9 score by stay duration
-- `fig3_all_scores.png`: Comparison of PHQ, SCS, AS scores
-
 ## 🧠 Key Takeaways
 
 - Students with medium stays report higher PHQ (depression) scores than short or long stays.
